@@ -8,3 +8,8 @@ This simple application has the following as its major features:
 
 You can have a demo at 
 http://cit.allsolutionsoftwares.co.zw/
+
+login Details
+
+email = bthighforce@gmail.com
+password = bthighforce@gmail.com
